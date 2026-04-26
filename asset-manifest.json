@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.67c8ee99.css",
-    "main.js": "/static/js/main.7743c5da.js",
+    "main.css": "/static/css/main.e8a1fdb2.css",
+    "main.js": "/static/js/main.25fea50d.js",
     "static/js/213.69a5e8d8.chunk.js": "/static/js/213.69a5e8d8.chunk.js",
     "static/js/455.fa93e340.chunk.js": "/static/js/455.fa93e340.chunk.js",
     "static/js/788.10bf1bfe.chunk.js": "/static/js/788.10bf1bfe.chunk.js",
@@ -9,14 +9,14 @@
     "static/media/logo-perum_botanika.png": "/static/media/logo-perum_botanika.498f37cabc3a30e8bdde.png",
     "static/media/logo-wa.png": "/static/media/logo-wa.487a1acee30e9cd376a9.png",
     "index.html": "/index.html",
-    "main.67c8ee99.css.map": "/static/css/main.67c8ee99.css.map",
-    "main.7743c5da.js.map": "/static/js/main.7743c5da.js.map",
+    "main.e8a1fdb2.css.map": "/static/css/main.e8a1fdb2.css.map",
+    "main.25fea50d.js.map": "/static/js/main.25fea50d.js.map",
     "213.69a5e8d8.chunk.js.map": "/static/js/213.69a5e8d8.chunk.js.map",
     "455.fa93e340.chunk.js.map": "/static/js/455.fa93e340.chunk.js.map",
     "788.10bf1bfe.chunk.js.map": "/static/js/788.10bf1bfe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.67c8ee99.css",
-    "static/js/main.7743c5da.js"
+    "static/css/main.e8a1fdb2.css",
+    "static/js/main.25fea50d.js"
   ]
 }
